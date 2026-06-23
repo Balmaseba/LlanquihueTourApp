@@ -72,6 +72,6 @@ El objetivo principal del proyecto es aplicar conceptos de **Programación Orien
 
 ## Repositorio GitHub
 
-
+https://github.com/Balmaseba/LlanquihueTourApp
 
 **Fecha de entrega:** 22/06/2026
